@@ -1,0 +1,6 @@
+{
+  "name": "PrepPulse",
+  "description": "Competitive exam student productivity app with AI timetable OCR parsing, daily dashboard, homework backlog manager & focus timer",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
