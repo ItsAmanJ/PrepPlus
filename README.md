@@ -1,10 +1,13 @@
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=40&pause=1000&color=FF4500&center=true&vCenter=true&width=800&lines=Currently+In+Development+Phase..." alt="Currently in development phase" />
+</div>
+
 # PrepPulse 🚀
 
 PrepPulse is a comprehensive, offline-first study management and productivity application designed to help students track their timetable, homework, and study sessions efficiently. 
 
 ## 📸 Screenshots
-
-*(Replace these placeholders with actual screenshots of your app)*
 
 | Today & Dashboard | Timetable & OCR | Focus Timer | Analytics |
 |:---:|:---:|:---:|:---:|
